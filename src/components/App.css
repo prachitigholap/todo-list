@@ -1,0 +1,25 @@
+
+
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+button {
+    border-radius: 4px;
+    box-shadow: none;
+    background-color: rgb(6, 42, 107);
+    color: rgb(247, 242, 242);
+
+}
+
+li{
+    display: flex;
+}
+
+li button{
+    background-color: white;
+    color: black;
+    border: none;
+    font-weight: bold;
+    cursor: pointer;
+}
